@@ -1,0 +1,11 @@
+{
+  "name": "Personal Laser Turret",
+  "version": "1.0.0",
+  "title": "Personal Laser Turret",
+  "author": "Doomquill",
+  "license": "https://opensource.org/licenses/MIT",
+  "contact": "No thanks",
+  "homepage": "TBD",
+  "description": "Personal laser turret now improves based on laser turret upgrades",
+  "dependencies": ["base >= 0.12.0"]
+}
